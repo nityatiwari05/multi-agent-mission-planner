@@ -1,0 +1,9 @@
+{
+  "episode_id": "1781700340_ecd18f54",
+  "mission_objective": "Inspect storm-damaged structures across the western perimeter",
+  "total_iterations": 3,
+  "final_action": "stop_unrecoverable",
+  "final_reasoning": "'sensor_blackout' has now recurred across iterations - risk is rising, not falling, so further retries are unlikely to help.",
+  "succeeded": false,
+  "total_reward": -103.0
+}

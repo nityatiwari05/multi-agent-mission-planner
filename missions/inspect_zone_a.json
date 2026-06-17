@@ -1,0 +1,12 @@
+{
+  "objective": "Inspect storm-damaged structures across the western perimeter",
+  "constraints": {
+    "wind_kmh": 10,
+    "fuel_level": 1.0
+  },
+  "zones": [
+    {"zone_id": "ZoneA", "distance_km": 3, "scan_required": true},
+    {"zone_id": "ZoneB", "distance_km": 4, "scan_required": true},
+    {"zone_id": "ZoneC", "distance_km": 10, "scan_required": false}
+  ]
+}
