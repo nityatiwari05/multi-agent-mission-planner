@@ -1,9 +1,0 @@
-{
-  "episode_id": "1781698204_47b206ef",
-  "mission_objective": "Inspect storm-damaged structures across the western perimeter",
-  "total_iterations": 1,
-  "final_action": "stop_success",
-  "final_reasoning": "Mission succeeded on iteration 1.",
-  "succeeded": true,
-  "total_reward": 116
-}
